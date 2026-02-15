@@ -59,10 +59,10 @@ The app stores its last generated pair in:
 This file lives in the same directory as the script and is automatically updated.
 
 ## ⚙️ How to Run
-1. Save the script as `pair_gui.py`
+1. Save the script as `fretboard_gui.py`
 2. Run it with:
    ```bash
-   python pair_gui.py
+   python fretboard_gui.py
    ```
 3. Click **Generate Pair** (or press Space/Enter)
 4. Watch the stopwatch start and enjoy using the tool
